@@ -5,5 +5,3 @@ function evenNumbers(number) {
 }
 
 var filtered = numbers.filter(evenNumbers);
-
-console.log(filtered);
